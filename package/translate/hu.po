@@ -640,23 +640,23 @@ msgstr ""
 
 #: ../contents/ui/config/OpenWeatherMapCityDialog.qml:70 ../contents/ui/config/WeatherCanadaCityDialog.qml:91
 msgid "Search"
-msgstr ""
+msgstr "Keresés"
 
 #: ../contents/ui/config/OpenWeatherMapCityDialog.qml:83 ../contents/ui/config/WeatherCanadaCityDialog.qml:104
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: ../contents/ui/config/OpenWeatherMapCityDialog.qml:88 ../contents/ui/config/WeatherCanadaCityDialog.qml:109
 msgid "Id"
-msgstr ""
+msgstr "Azonosító"
 
 #: ../contents/ui/config/OpenWeatherMapCityDialog.qml:93 ../contents/ui/config/WeatherCanadaCityDialog.qml:114
 msgid "City Webpage"
-msgstr ""
+msgstr "Település honlap"
 
 #: ../contents/ui/config/OpenWeatherMapCityDialog.qml:95 ../contents/ui/config/WeatherCanadaCityDialog.qml:116
 msgid "Open Link"
-msgstr ""
+msgstr "Link megnyitása"
 
 #: ../contents/ui/config/WeatherCanadaCityDialog.qml:68
 msgid "Fetched from <a href=\"https://weather.gc.ca/canada_e.html\">https://weather.gc.ca/canada_e.html</a>"
@@ -664,7 +664,7 @@ msgstr ""
 
 #: ../contents/ui/lib/AppletVersion.qml:41
 msgid "<b>Version:</b> %1"
-msgstr ""
+msgstr "<b>Verzió:</b> %1"
 
 #: ../contents/ui/LocaleFuncs.js:8
 msgctxt "event time on the hour (24 hour clock)"
@@ -703,7 +703,7 @@ msgstr ""
 
 #: ../contents/ui/main.qml:220
 msgid "Set Language..."
-msgstr ""
+msgstr "Nyelv megadása..."
 
 #: ../contents/ui/main.qml:223
 msgid "Set Locale..."
@@ -754,47 +754,47 @@ msgstr ""
 
 #: ../contents/ui/TimerView.qml:22
 msgid "30s"
-msgstr ""
+msgstr "30ms"
 
 #: ../contents/ui/TimerView.qml:26
 msgid "1m"
-msgstr ""
+msgstr "1p"
 
 #: ../contents/ui/TimerView.qml:30
 msgid "5m"
-msgstr ""
+msgstr "5p"
 
 #: ../contents/ui/TimerView.qml:34
 msgid "10m"
-msgstr ""
+msgstr "10p"
 
 #: ../contents/ui/TimerView.qml:38
 msgid "15m"
-msgstr ""
+msgstr "15p"
 
 #: ../contents/ui/TimerView.qml:42
 msgid "20m"
-msgstr ""
+msgstr "20p"
 
 #: ../contents/ui/TimerView.qml:46
 msgid "30m"
-msgstr ""
+msgstr "30p"
 
 #: ../contents/ui/TimerView.qml:50
 msgid "45m"
-msgstr ""
+msgstr "45p"
 
 #: ../contents/ui/TimerView.qml:54
 msgid "1h"
-msgstr ""
+msgstr "1ó"
 
 #: ../contents/ui/TimerView.qml:102
 msgid "Pause Timer"
-msgstr ""
+msgstr "Időzítő megállítása"
 
 #: ../contents/ui/TimerView.qml:104
 msgid "Start Timer"
-msgstr ""
+msgstr "Időzítő indítása"
 
 #: ../contents/ui/TimerView.qml:108
 msgid "Scroll to add to duration"
@@ -802,11 +802,11 @@ msgstr ""
 
 #: ../contents/ui/TimerView.qml:163 ../contents/ui/TimerView.qml:172 ../contents/ui/TimerView.qml:373
 msgid "Repeat"
-msgstr ""
+msgstr "Ismétlés"
 
 #: ../contents/ui/TimerView.qml:181 ../contents/ui/TimerView.qml:190 ../contents/ui/TimerView.qml:382
 msgid "Sound"
-msgstr ""
+msgstr "Hang"
 
 #: ../contents/ui/TimerView.qml:347
 msgid "Timer finished"
